@@ -1,0 +1,19 @@
+{
+  "name": "mondrian",
+  "version": "1.0.0",
+  "description": "PietMondrian",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toroi0610/PietMondrian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toroi0610/PietMondrian/issues"
+  },
+  "homepage": "https://github.com/Toroi0610/PietMondrian#readme"
+}
